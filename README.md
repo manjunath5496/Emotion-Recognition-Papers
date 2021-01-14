@@ -86,46 +86,46 @@ A Deep Neural Framework for Contextual Affect Detection</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(47).pdf" style="text-decoration:none;">Emotion Recognition using Multimodal Residual LSTM Network</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(48).pdf" style="text-decoration:none;">A review of affective computing: From unimodal analysis to multimodal fusion</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(49).pdf" style="text-decoration:none;">Event Extraction as Multi-turn Question Answering</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(49).pdf" style="text-decoration:none;">Hierarchical Transformer Network for Utterance-Level Emotion Recognition</a></li>
                               
-<li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(50).pdf" style="text-decoration:none;">Biomedical Event Extraction with Hierarchical Knowledge Graphs</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(51).pdf" style="text-decoration:none;">Edge-Enhanced Graph Convolution Networks for Event Detection with Syntactic Relation</a></li>
-<li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(52).pdf" style="text-decoration:none;">How Does Context Matter? On the Robustness of Event Detection with Context-Selective Mask Generalization</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(50).pdf" style="text-decoration:none;">ICON: Interactive Conversational Memory Network for Multimodal Emotion Detection</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(51).pdf" style="text-decoration:none;">Multimodal Deep Learning Framework for Mental Disorder Recognition</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(52).pdf" style="text-decoration:none;">A Multimodal Deep Regression Bayesian Network for Affective Video Content Analyses</a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(53).pdf" style="text-decoration:none;">Resource-Enhanced Neural Model for Event Argument Extraction</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(53).pdf" style="text-decoration:none;">DailyDialog: A Manually Labelled Multi-turn Dialogue Dataset</a></li>
  
-<li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(54).pdf" style="text-decoration:none;">Graph Transformer Networks with Syntactic and Semantic Structures for Event Argument Extraction </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(54).pdf" style="text-decoration:none;">Analysis of Utterance Combinations for Emotion Recognition in Conversation </a></li>
 
-<li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(55).pdf" style="text-decoration:none;">Learning to Classify Events from Human Needs Category Descriptions</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(55).pdf" style="text-decoration:none;">Emotion Recognition in Context</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(56).pdf" style="text-decoration:none;">Towards Few-Shot Event Mention Retrieval: An Evaluation Framework and A Siamese Network Approach </a></li>                              
+  <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(56).pdf" style="text-decoration:none;">Emotion Lines: An Emotion Corpus of Multi-Party Conversations</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(57).pdf" style="text-decoration:none;">Cross-lingual Structure Transfer for Zero-resource Event Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(57).pdf" style="text-decoration:none;">Context-Aware Emotion Recognition Networks</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(58).pdf" style="text-decoration:none;">Cross-Domain Evaluation of Edge Detection for Biomedical Event Extraction</a></li>
-    <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(59).pdf" style="text-decoration:none;">Event Extraction from Unstructured Amharic Text</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(58).pdf" style="text-decoration:none;">EmotiCon: Context-Aware Multimodal Emotion Recognition using Frege's Principle</a></li>
+    <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(59).pdf" style="text-decoration:none;">A survey of multimodal sentiment analysis</a></li>
  
-  <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(60).pdf" style="text-decoration:none;">A Platform for Event Extraction in Hindi </a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(60).pdf" style="text-decoration:none;">Conversational Memory Network
+for Emotion Recognition in Dyadic Dialogue Videos </a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(61).pdf" style="text-decoration:none;"> Extensively Matching for Few-shot Learning Event Detection</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(61).pdf" style="text-decoration:none;"> HiGRU: Hierarchical Gated Recurrent Units for Utterance-level Emotion Recognition</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(62).pdf" style="text-decoration:none;">Coreference based event-argument relation extraction on biomedical text</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(62).pdf" style="text-decoration:none;">MELD: A Multimodal Multi-Party Dataset for Emotion Recognition in Conversations</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(63).pdf" style="text-decoration:none;">Exploiting the Ground-Truth: An Adversarial Imitation Based Knowledge Distillation Approach for Event Detection</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(63).pdf" style="text-decoration:none;">Towards Multimodal Sarcasm Detection (An Obviously Perfect Paper)</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(64).pdf" style="text-decoration:none;">Modeling Textual Cohesion for Event Extraction</a></li>
+  <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(64).pdf" style="text-decoration:none;">Quantum-Inspired Interactive Networks for Conversational Sentiment Analysis</a></li>
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(65).pdf" style="text-decoration:none;">Image Enhanced Event Detection in News Articles </a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(65).pdf" style="text-decoration:none;">CoAStaL at SemEval-2019 Task 3: Affect Classification in Dialogue using Attentive BiLSTMs</a></li> 
 
-   <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(66).pdf" style="text-decoration:none;">A Probabilistic Soft Logic Based Approach to Exploiting Latent and Global Information in Event Classification</a></li> 
+   <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(66).pdf" style="text-decoration:none;">EPITA-ADAPT at SemEval-2019 Task 3: Using Deep Sentiment Analysis Models and Transfer Learning for Emotion Detection in Textual Conversations</a></li> 
  
-   <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(67).pdf" style="text-decoration:none;">Language Specific Issue and Feature Exploration in Chinese Event Extraction</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(67).pdf" style="text-decoration:none;">LIRMM-Advanse at SemEval-2019 Task 3: Attentive Conversation Modeling for Emotion Detection and Classification</a></li>                              
 
-  <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(68).pdf" style="text-decoration:none;">Jointly Extracting Event Triggers and Arguments by Dependency-Bridge RNN and Tensor-Based Argument Interaction</a></li> 
+  <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(68).pdf" style="text-decoration:none;">DialogueGCN: A Graph Convolutional Neural Network for Emotion Recognition in Conversation</a></li> 
  
   
-   <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(69).pdf" style="text-decoration:none;">Graph Convolutional Networks with
-Argument-Aware Pooling for Event Detection</a></li>                              
+   <li><a target="_blank" href="https://github.com/manjunath5496/Emotion-Recognition-Papers/blob/master/em(69).pdf" style="text-decoration:none;">Knowledge-Enriched Transformer for Emotion Detection in Textual Conversations</a></li>                              
 
   </ul>
   
